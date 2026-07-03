@@ -42,10 +42,10 @@ joke_dict = {0: ["Why was Cinderella so bad a football?", "She kept running away
              17: ["What do you call a magician that loses his magic?", "Ian."],
              18: ["How do rabbits travel?", "By hareplanes."],
              19: ["What do you call a sleeping dinosaur?", "A dino-snore."],
-             20: ["Why did the strawberry cry?", "He found himself in a jam."]
-             21: ["Knock, knock. Who’s there?","Tank. Tank who? You're welcome!"]
-             22: ["Knock, knock. Who’s there?","Cows go. Cows go who? No, cows go moo!"]
-             23: ["Dad, I'm hungry","Hi Hungry, I'm Dad."]
+             20: ["Why did the strawberry cry?", "He found himself in a jam."],
+             21: ["Knock, knock. Who’s there?","Tank. Tank who? You're welcome!"],
+             22: ["Knock, knock. Who’s there?","Cows go. Cows go who? No, cows go moo!"],
+             23: ["Dad, I'm hungry","Hi Hungry, I'm Dad."],
              24: ["Which bird is universally hated by batsmen?","The duck."]
              }
 
