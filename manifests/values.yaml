@@ -1,2 +1,2 @@
-image: qastudent/jokes:<+pipeline.sequenceId>
+image: 290918mb/jokes:<+pipeline.sequenceId>
 replicas: 2
